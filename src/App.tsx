@@ -12,7 +12,7 @@ function App() {
         <img src={dockerLogo} className="logo" alt="Docker logo" />
         <img src={awsLogo} className="logo" alt="AWS logo" />
       </div>
-      <h1>Kesavakumar Pommu+ 23BCSL01+ REACT-DOCKER-AWS</h1>
+      <h1>Kesavakumar pommu N + 23BCSL01 + REACT-DOCKER-AWS </h1>
     </>
   )
 }
